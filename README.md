@@ -7,4 +7,4 @@ and sum to calculate the sum of the numbers in a set in and how to establish a d
 To join two sets, use the union function, split function to split the elements, learned some other basic logics and functions of python.  
 
 ## Video
-[video](https://drive.google.com/file/d/1mRmNQZgXHOOh6Vgg01W5PsKuBRY7u2Mc/view?usp=share_link)
+[video](https://drive.google.com/file/d/1KDGvQY3x3cGLkH6AI2bkNqjD8AgKsJCu/view?usp=share_link)
