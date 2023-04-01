@@ -8,3 +8,16 @@ To join two sets, use the union function, split function to split the elements, 
 
 ## Video
 [video](https://drive.google.com/file/d/1KDGvQY3x3cGLkH6AI2bkNqjD8AgKsJCu/view?usp=share_link)
+
+# Machine Learning CS5710 Assinment 3
+## Name Ch Jethin Sai  
+### Student Id 700746555 spring 2023 
+In This assignmet, we learn by creating a random 1-dimensional array of size 15 with integer values ranging from 1 to 20. It then reshapes this array into a 3x5 matrix. The maximum element in each row is replaced by 0 using NumPy's "where" function.
+Next, a 2-dimensional array of size 4x3 is created with integer elements, and its shape, type, and data type are printed.
+Then, the eigenvalues and right eigenvectors of a given matrix are computed using NumPy's "eig" function.
+After that, the sum of the diagonal elements of a given 2-dimensional array is computed using NumPy's "trace" function.
+Finally, a pie chart is created using Matplotlib library to show the popularity of various programming languages.
+
+
+
+
