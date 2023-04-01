@@ -18,6 +18,7 @@ Then, the eigenvalues and right eigenvectors of a given matrix are computed usin
 After that, the sum of the diagonal elements of a given 2-dimensional array is computed using NumPy's "trace" function.
 Finally, a pie chart is created using Matplotlib library to show the popularity of various programming languages.
 
-
+## Video
+[video](https://drive.google.com/file/d/1xU7WkgpEShKHmSXubWP7_1FwQHse1kJC/view?usp=share_link)
 
 
