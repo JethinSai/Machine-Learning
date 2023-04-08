@@ -22,3 +22,7 @@ Finally, a pie chart is created using Matplotlib library to show the popularity 
 [video](https://drive.google.com/file/d/1xU7WkgpEShKHmSXubWP7_1FwQHse1kJC/view?usp=share_link)
 
 
+# Machine Learning CS5710 Assinment 4
+## Name Ch Jethin Sai  
+### Student Id 700746555 spring 2023 
+In This assignmet, we learn by creatininvolves implementing various programming elements using the pandas and scikit-learn libraries. The first part involves working with a provided CSV file, where the student must perform basic statistical analysis, check for null values and replace them with the mean, and aggregate data using various functions. The second part involves working with two different datasets (Titanic and Glass) and implementing Naïve Bayes and linear SVM methods using scikit-learn, as well as visualizing correlations within the datasets. The student must also report on the accuracy of each method and justify which algorithm achieved better accuracy.
