@@ -29,3 +29,12 @@ In This assignmet, we learn by creatininvolves implementing various programming 
 
 ## Video
 [video](https://drive.google.com/file/d/1ptcyItq4SULrmu45zXylrwf1v9iEQ5Vb/view?usp=share_link)
+
+
+# Machine Learning CS5710 Assinment 5
+## Name Ch Jethin Sai  
+### Student Id 700746555 spring 2023 
+In this assinment we learn about segmentation using the K-Means algorithm. The data is first loaded from a CSV file using pandas. The data is preprocessed by removing unnecessary columns and handling null values by replacing them with the mean value of the corresponding column. PCA is then used to reduce the dimensionality of the data, and K-Means clustering is applied to the PCA-transformed data. The elbow method is used to determine the optimal number of clusters, and the silhouette score is calculated to evaluate the quality of the clustering. Finally, feature scaling is applied using the StandardScaler method, and PCA is applied again to the scaled data. K-Means clustering is once again applied to the PCA-transformed data, and the elbow method is used to determine the optimal number of clusters.
+
+## Video
+[video](https://drive.google.com/file/d/1LMGPT5_uj-uKSQLPcEtF5MMXIlDxBPWm/view?usp=share_link)
